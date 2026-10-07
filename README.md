@@ -88,37 +88,20 @@ AI               ████░░░░░░░  40%
 | 🤖 AI Projects | AI • Web | 🌱 Learning |
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
+![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanalam&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfanalam&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanalam&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=irfanalam&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/irfanalam">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-IrfanAlam-black?style=for-the-badge&logo=github)](https://github.com/irfanalam)
 
 ---
-
-<div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
 **⭐ Keep Learning • 🚀 Keep Building • 🔥 Keep Growing**
-
-</div>
